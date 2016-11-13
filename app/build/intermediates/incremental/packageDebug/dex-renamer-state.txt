@@ -1,0 +1,7 @@
+#Sun Nov 13 15:41:38 EST 2016
+base.0=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8270ddee4c25774e7c608a067aa4bb14fff73eb8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42bc98db29ec82b6e82d82fc87fcea1984650a65/classes.dex
+base.1=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42bc98db29ec82b6e82d82fc87fcea1984650a65
+file.0=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8270ddee4c25774e7c608a067aa4bb14fff73eb8/classes.dex

@@ -1,0 +1,110 @@
+[
+    {
+        "outputFile": "/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/tricia/git-cloned/SimpleAsync/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 67,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "/home/tricia/git-cloned/SimpleAsync/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 63,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "/home/tricia/git-cloned/SimpleAsync/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 53,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "/home/tricia/git-cloned/SimpleAsync/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 160,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "/home/tricia/git-cloned/SimpleAsync/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 160,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 157,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/home/tricia/git-cloned/SimpleAsync/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 58,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "/home/tricia/git-cloned/SimpleAsync/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 56,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "/home/tricia/git-cloned/SimpleAsync/app/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]

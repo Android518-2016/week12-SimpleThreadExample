@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Sun Nov 13 15:49:40 EST 2016
+2.base=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_/res/layout/count.xml
+1.set=ANDROID_RESOURCE
+2.file=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.base=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/tricia/git-cloned/SimpleAsync/app/build/intermediates/res/resources-debug.ap_/res/layout/multicount.xml
+0.set=ANDROID_RESOURCE
